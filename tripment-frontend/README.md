@@ -14,7 +14,7 @@
 
 ## Json файл с данными
 
-https://github.com/tripment/test-tasks/tripment-frontend/mock.json
+https://github.com/tripment/test-tasks/blob/master/tripment-frontend/mock.json
 
 ## Макет в Фигме  
 
