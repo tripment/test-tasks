@@ -12,7 +12,7 @@
 - За данными ходить в json файл
 - Остальное на твоё усмотрение
 
-## Json файл с данными
+## JSON файл с данными
 
 https://github.com/tripment/test-tasks/blob/master/tripment-frontend/mock.json
 
